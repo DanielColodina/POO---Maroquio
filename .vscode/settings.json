@@ -1,10 +1,10 @@
 {
     "java.project.sourcePaths": [
         "src",
-        "app"
+        "app",
+        "3_Exemplobasico",
+        "0_POO_LIVRO"
     ],
     "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar"
-    ]
+    "java.project.referencedLibraries": []
 }

@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AppExemplo",
+            "request": "launch",
+            "mainClass": "src.AppExemplo",
+            "projectName": "java_com_maroquio_3254bfe0"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "App",
